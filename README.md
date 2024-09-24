@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a IT Company<br>👯 I’m looking to collaborate on everything possible<br>🤝 I’m looking for help with learning<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about networking<br>⚡ Fun Fact: Blue lock made me motivated enough to start
+🔭 I’m currently working on a IT Company<br>👯 I’m looking to collaborate on everything possible<br>🤝 I’m looking for help with learning<br>🌱 I’m currently learning Java<br>💬 Ask me about networking<br>⚡
 
 
 ## 🌐 Socials:
